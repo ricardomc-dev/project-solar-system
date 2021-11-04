@@ -1,0 +1,11 @@
+#solar-system {
+  color: white;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+#title {
+  color: white;
+  font-size: 30px;
+}
